@@ -1,9 +1,11 @@
-# 🌦️ Weather Web Application
+# 🌦️ Weather Web Application   
 
 A simple and responsive **Weather Web Application** built using **HTML, CSS, and JavaScript**.  
 This application allows users to search for any city and view **real-time weather information** such as temperature, humidity, wind speed, and weather conditions using a weather API.
 
 This project is developed as a **college minor project** to demonstrate frontend development skills and API integration.
+
+team member : Aman Goyal
 
 ---
 
